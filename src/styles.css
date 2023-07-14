@@ -20,6 +20,10 @@
     color: white;
 }
 
+.right-interact {
+    padding-left: 36px;
+}
+
 .btn-account {
     background-color: #70603f;
     color: white;
@@ -31,6 +35,7 @@
     font-size: 1.5rem;
 }
 
-.test {
-    border: dashed 1px red;
+.link-login {
+    color: #70603f;
+    text-decoration: none;
 }
