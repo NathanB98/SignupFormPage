@@ -1,0 +1,23 @@
+.main {
+    border: solid 1px red;
+    height: 100vh;
+}
+
+.left-main {
+    /*background: url(../img/nils-leonhardt-48Pf5emasEg-unsplash.jpg);*/
+    background: url(../img/martin-bennie-bGToq_7vFhw-unsplash.jpg);
+    background-size: cover;
+}
+
+.left-text {
+    background-color: rgba(0, 0, 0, 0.6);
+}
+
+.left-title {
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-weight: bold;
+}
+
+.left-footer > p {
+    color: white;
+}
