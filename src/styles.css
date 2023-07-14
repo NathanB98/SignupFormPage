@@ -20,6 +20,17 @@
     color: white;
 }
 
+.btn-account {
+    background-color: #70603f;
+    color: white;
+    width: 12rem;
+    height: 3rem;
+    border-radius: 10px;
+    border: none;
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+
 .test {
     border: dashed 1px red;
 }
